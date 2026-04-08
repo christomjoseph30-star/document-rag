@@ -1,5 +1,7 @@
 # Multi-Document RAG
 
+![Demo](Untitled%20drawing.svg)
+
 
 A local RAG (Retrieval-Augmented Generation) system that lets you upload PDF documents and ask questions about them — fully offline, no cloud required.
 
