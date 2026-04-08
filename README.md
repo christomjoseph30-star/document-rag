@@ -1,8 +1,5 @@
 # Multi-Document RAG
 
-![Demo](demo.svg)
-
-
 A local RAG (Retrieval-Augmented Generation) system that lets you upload PDF documents and ask questions about them — fully offline, no cloud required.
 
 ## Stack
@@ -86,3 +83,5 @@ MODEL_PATH = r"...\DeepSeek-R1-Distill-Qwen-1.5B-Q4_K_M.gguf"
 ```
 
 Note: If you change the embedding model, delete the `chroma_db_*` folder and re-index.
+
+![Demo](demo.svg)
