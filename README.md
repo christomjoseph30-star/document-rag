@@ -84,4 +84,6 @@ MODEL_PATH = r"...\DeepSeek-R1-Distill-Qwen-1.5B-Q4_K_M.gguf"
 
 Note: If you change the embedding model, delete the `chroma_db_*` folder and re-index.
 
+## Demo
+
 ![Demo](demo.svg)
